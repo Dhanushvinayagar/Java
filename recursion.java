@@ -106,6 +106,7 @@ public class recursion{
             return strictlyincreasing(arr, s, n);            
     }
     static int count=0;
+    
     //put x to back string
     public static String strback(String str,int i,int n,String str1){
 

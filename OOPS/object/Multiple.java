@@ -21,7 +21,7 @@ class TestClass implements PI1, PI2 {
 	{
 		PI1.super.show();
 		PI2.super.show();
-		}
+	}
 
 	public void showOfPI1() {
 		PI1.super.show();

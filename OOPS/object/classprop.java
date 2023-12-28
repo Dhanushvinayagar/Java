@@ -1,5 +1,4 @@
 package object;
-import java.util.*;
 
 class Default{
 	int a=9;

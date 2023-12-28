@@ -16,7 +16,7 @@ class Bclass extends Aclass{
 
 public class Absract {
 	public static void main(String args[]) {
-		Bclass b=new Bclass();
+		Aclass b=new Bclass();
 		b.func();
 		b.display();
 	}

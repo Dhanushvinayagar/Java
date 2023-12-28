@@ -1,6 +1,5 @@
 package object;
 
-
 interface GPI {
 	default void show()
 	{
@@ -19,7 +18,7 @@ public class Hybrid {
 
 	public static void main(String args[])
 	{
-		TestClass1 d = new TestClass1();
+		GPI d = new TestClass1();
 		d.show();
 	}
 }
